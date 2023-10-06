@@ -1,6 +1,6 @@
-# AR_AI - FRONTEND
+# AR-AI - FRONTEND
 
-AR-AI is a sample web app that contains the snippet take from the stable application and uses real-time face animation and advanced text-to-speech to create an immersive and human-like conversational AI experience.
+AR-AI is an example web application that includes a code snippet extracted from the stable application and uses real-time face animation and advanced text-to-speech to create an immersive and human-like conversational AI experience.
 
 ## Requirements
 
